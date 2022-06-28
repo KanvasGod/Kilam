@@ -1,0 +1,19 @@
+{
+  "name": "kilam",
+  "version": "1.0.0",
+  "description": "Kilam is a light weight frontend framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanvasGod/Kilam.git"
+  },
+  "author": "Malik harrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KanvasGod/Kilam/issues"
+  },
+  "homepage": "https://github.com/KanvasGod/Kilam#readme"
+}
